@@ -52,7 +52,7 @@ To test if the code is correct
 ## To push changes from local machine to git
 - Add the modified file to git
 ```
-git add src/main/java/com/devaprasadh/javabasics/HelloWorld.java
+git add src/main/java/io/github/devatherock/javabasics/HelloWorld.java
 ```
 - Commit the changes to local git index
 ```
