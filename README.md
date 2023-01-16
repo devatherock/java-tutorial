@@ -39,7 +39,7 @@ git checkout -b exercise
 ```
 
 ## Exercise
-- In eclipse,  `Cmd + Shift + R` to open `Open Resource` dialog
+- In eclipse,  `Cmd + Shift + R`(or `Ctrl + Shift + R`) to launch the `Open Resource` dialog
 - Type `HelloWorld` and open `HelloWorld.java`
 - Replace the `TODO` lines with actual code
 
