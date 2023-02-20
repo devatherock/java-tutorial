@@ -17,5 +17,3 @@ dependencies {
     
 	testImplementation group: 'junit', name: 'junit', version: '4.13.2'
 }
-
-apply from: 'https://raw.githubusercontent.com/devatherock/gradle-includes/master/checks.gradle'
